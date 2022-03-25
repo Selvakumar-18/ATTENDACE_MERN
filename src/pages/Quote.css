@@ -1,0 +1,35 @@
+table {
+  background-color: #fff;  
+  border: 2px solid #fff; 
+  width: 500px;
+  box-shadow: 1px 1px 2.5px 2.5px rgba(167, 162, 162, 0.753);
+}
+
+table thead tr th{
+  color:white;
+  background-color: black;
+}
+
+tbody tr td{
+  
+  border: 1px ridge lightgray;
+  border-collapse: collapse;
+ 
+}
+td{  
+text-align: center;  
+}
+
+tbody tr td a:link{
+text-decoration: none;
+background-color:white;
+color:white;
+border-radius: 2px;
+margin: 5px;
+padding: 5px;
+border: 2px solid rgb(21, 22, 22);
+cursor: pointer;
+}
+
+
+  
